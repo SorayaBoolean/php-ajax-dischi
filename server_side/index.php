@@ -14,6 +14,11 @@
         </div>
     </header>
     <main>
+        <div class="cards_container">
+
+        
+
+        </div>
 
     </main>
     
