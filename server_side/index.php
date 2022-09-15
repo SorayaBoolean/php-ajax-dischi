@@ -10,13 +10,69 @@
 <body>
     <header>
         <div class="logo">
-            <img src="img/logo.svg" alt="">
+            <img src="" alt="">
         </div>
     </header>
     <main>
         <div class="cards_container">
 
-        
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
+
+            <div class="disc_card">
+                <div class="image_disc">img</div>
+                <div class="title_disc">title</div>
+                <div class="author_disc">author</div>
+            </div>
 
         </div>
 
