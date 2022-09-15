@@ -76,7 +76,7 @@
                 echo'<div class="image_disc">'.$disc['poster'].'</div>';
                 echo'<div class="title_disc">'.$disc['title'].'</div>';
                 echo'<div class="author_disc">'.$disc['author'].'</div>';
-                '</div>'
+                '</div>';
             }
 
 
